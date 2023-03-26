@@ -12,7 +12,7 @@ RODZAJE LICENCJI NA GITHUB'ie:
 10. GNU General Public License v2.0
 11. GNU Lesser General Public License v2.1
 12. Mozilla Public License 2.0
-
+<br><br><br>
 1. Apache License 2.0: To licencja typu permissive, która pozwala na używanie, kopiowanie i modyfikowanie oprogramowania, które zostało udostępnione na jej podstawie. Jedynym wymaganiem jest to, że każda kopia musi zawierać informacje o prawach autorskich i oryginalnej licencji. Licencja ta chroni twórców przed odpowiedzialnością prawną związaną z używaniem, modyfikowaniem i dystrybuowaniem ich oprogramowania.
 2. GNU General Public License v3.0: To licencja typu copyleft, która pozwala na używanie, kopiowanie i modyfikowanie oprogramowania, które zostało udostępnione na jej podstawie. Jednakże, każdy, kto używa lub dystrybuuje oprogramowanie, musi udostępnić jego kod źródłowy oraz udzielić użytkownikom praw do modyfikowania i dystrybuowania go dalej. Licencja ta ma na celu zapewnienie, że oprogramowanie pozostanie wolne i otwarte.
 3. MIT License: To licencja typu permissive, która pozwala na używanie, kopiowanie i modyfikowanie oprogramowania, które zostało udostępnione na jej podstawie. Jedynym wymaganiem jest to, że każda kopia musi zawierać informacje o prawach autorskich i oryginalnej licencji. Licencja ta jest często stosowana dla projektów open source.
